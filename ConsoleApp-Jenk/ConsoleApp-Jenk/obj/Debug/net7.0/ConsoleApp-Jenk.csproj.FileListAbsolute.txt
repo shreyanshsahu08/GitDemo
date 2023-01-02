@@ -1,0 +1,15 @@
+C:\Users\SAHU JI\Documents\C-Sharp Practice\ConsoleApp-Jenk\ConsoleApp-Jenk\bin\Debug\net7.0\ConsoleApp-Jenk.exe
+C:\Users\SAHU JI\Documents\C-Sharp Practice\ConsoleApp-Jenk\ConsoleApp-Jenk\bin\Debug\net7.0\ConsoleApp-Jenk.deps.json
+C:\Users\SAHU JI\Documents\C-Sharp Practice\ConsoleApp-Jenk\ConsoleApp-Jenk\bin\Debug\net7.0\ConsoleApp-Jenk.runtimeconfig.json
+C:\Users\SAHU JI\Documents\C-Sharp Practice\ConsoleApp-Jenk\ConsoleApp-Jenk\bin\Debug\net7.0\ConsoleApp-Jenk.dll
+C:\Users\SAHU JI\Documents\C-Sharp Practice\ConsoleApp-Jenk\ConsoleApp-Jenk\bin\Debug\net7.0\ConsoleApp-Jenk.pdb
+C:\Users\SAHU JI\Documents\C-Sharp Practice\ConsoleApp-Jenk\ConsoleApp-Jenk\obj\Debug\net7.0\ConsoleApp-Jenk.csproj.AssemblyReference.cache
+C:\Users\SAHU JI\Documents\C-Sharp Practice\ConsoleApp-Jenk\ConsoleApp-Jenk\obj\Debug\net7.0\ConsoleApp-Jenk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAHU JI\Documents\C-Sharp Practice\ConsoleApp-Jenk\ConsoleApp-Jenk\obj\Debug\net7.0\ConsoleApp-Jenk.AssemblyInfoInputs.cache
+C:\Users\SAHU JI\Documents\C-Sharp Practice\ConsoleApp-Jenk\ConsoleApp-Jenk\obj\Debug\net7.0\ConsoleApp-Jenk.AssemblyInfo.cs
+C:\Users\SAHU JI\Documents\C-Sharp Practice\ConsoleApp-Jenk\ConsoleApp-Jenk\obj\Debug\net7.0\ConsoleApp-Jenk.csproj.CoreCompileInputs.cache
+C:\Users\SAHU JI\Documents\C-Sharp Practice\ConsoleApp-Jenk\ConsoleApp-Jenk\obj\Debug\net7.0\ConsoleApp-Jenk.dll
+C:\Users\SAHU JI\Documents\C-Sharp Practice\ConsoleApp-Jenk\ConsoleApp-Jenk\obj\Debug\net7.0\refint\ConsoleApp-Jenk.dll
+C:\Users\SAHU JI\Documents\C-Sharp Practice\ConsoleApp-Jenk\ConsoleApp-Jenk\obj\Debug\net7.0\ConsoleApp-Jenk.pdb
+C:\Users\SAHU JI\Documents\C-Sharp Practice\ConsoleApp-Jenk\ConsoleApp-Jenk\obj\Debug\net7.0\ConsoleApp-Jenk.genruntimeconfig.cache
+C:\Users\SAHU JI\Documents\C-Sharp Practice\ConsoleApp-Jenk\ConsoleApp-Jenk\obj\Debug\net7.0\ref\ConsoleApp-Jenk.dll
